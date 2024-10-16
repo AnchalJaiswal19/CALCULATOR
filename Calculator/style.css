@@ -1,0 +1,50 @@
+.h1{
+    align-items: center;
+    margin-inline-start: 530px;
+}
+.btn{
+    height: 53px;
+    width: 54px;
+    border: 2px solid rgb(96, 95, 95);
+    border-radius: 10px;
+    color: black;
+    background-color: white;
+    font-weight: 900;
+    font-size: 30px;
+    margin: 3px 3px;
+}
+.container{
+    height: 440px;
+    width: 326px;
+    border: 2px solid rgb(75, 74, 74);
+    border-radius: 33px;
+    background-color: #888888;
+    margin: 77px 559px;
+
+}
+.input{
+    margin: 33px 40px 28px 40px;
+    height: 52px;
+    width: 237px;
+    border: 2px solid rgb(93, 91, 91);
+    border-radius: 7px;
+    background-color: white;
+}
+.input{
+    box-shadow:  inset -1px -10px 6px 0px #9B9FA0;
+
+}
+.button{
+    padding: 0px 37px;
+}
+.btn{
+    box-shadow:  inset -12px -14px 3px -8px #9B9FA2;
+}
+.input{
+    font-size: 2rem;
+    font-weight: 400;
+}
+.input.value{
+    font-size: 2rem;
+    font-weight: 400;
+}
